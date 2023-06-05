@@ -52,7 +52,7 @@ export default {
     color: #FFFFFF;
     font-weight: 700;
     font-size: 18px;
-    line-height: 25px;
+    line-height: 26px;
     cursor: pointer;
 }
 .header p span {
