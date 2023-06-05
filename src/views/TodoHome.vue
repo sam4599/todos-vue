@@ -57,7 +57,7 @@ h2 {
 
 .button-create {
     padding: 10px 20px;
-    margin-top: 30px;
+    margin-top: 20px;
     border-color: cadetblue;
     background: transparent;
     color: cadetblue;
